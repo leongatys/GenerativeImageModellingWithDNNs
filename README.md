@@ -10,3 +10,5 @@ Here I will share the code from the lectures of the course: Generative Image Mod
 ## Content
 ### Lecture 1
 Brief introduction to natural images and example of classifying an image with a pre-trained CNN.
+### Lecture 2
+Discussion and implementation of [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps, Simonyan et al. 2013](https://arxiv.org/abs/1312.6034)
