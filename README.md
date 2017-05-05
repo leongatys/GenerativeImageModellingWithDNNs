@@ -12,4 +12,4 @@ Here I will share the code from the lectures of the course: Generative Image Mod
 Brief introduction to natural images and example of classifying an image with a pre-trained CNN.
 ### Lecture 2
 Discussion and implementation of [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps, Simonyan et al. 2013](https://arxiv.org/abs/1312.6034).  
-Also implementation of the regularisation methods from [Understanding Neural Networks Through Deep Visualization, Yosinksi et al. 2015 ](https://arxiv.org/pdf/1506.06579.pdf).
+Also implementation of the regularisation methods from [Understanding Neural Networks Through Deep Visualization, Yosinski et al. 2015 ](https://arxiv.org/pdf/1506.06579.pdf).
