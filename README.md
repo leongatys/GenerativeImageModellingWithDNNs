@@ -13,3 +13,9 @@ Brief introduction to natural images and example of classifying an image with a 
 ### Lecture 2
 Discussion and implementation of [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps, Simonyan et al. 2013](https://arxiv.org/abs/1312.6034).  
 Also implementation of the regularisation methods from [Understanding Neural Networks Through Deep Visualization, Yosinski et al. 2015 ](https://arxiv.org/pdf/1506.06579.pdf).
+### Lecture 3
+Discussion and implementation of [Understanding Deep Image Representations by Inverting Them, Mahendran et al. 2015](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Mahendran_Understanding_Deep_Image_2015_CVPR_paper.pdf).  
+### Lecture 4
+Discussion and implementation of [Intriguing properties of neural networks, Szegedy et al. 2014](https://arxiv.org/pdf/1312.6199.pdf).  
+### Lecture 5
+Discussion and implementation of [Texture Synthesis Using Convolutional Neural Networks, Gatys et al. 2015](http://papers.nips.cc/paper/5633-texture-synthesis-using-convolutional-neural-networks.pdf).  
