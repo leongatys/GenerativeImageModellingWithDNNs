@@ -23,3 +23,5 @@ Discussion and implementation of [Intriguing properties of neural networks, Szeg
 Discussion and implementation of [Texture Synthesis Using Convolutional Neural Networks, Gatys et al. 2015](http://papers.nips.cc/paper/5633-texture-synthesis-using-convolutional-neural-networks.pdf).  
 ### Lecture 6
 Discussion and implementation of [Image Style Transfer Using Convolutional Neural Networks, Gatys et al. 2016](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf).  
+### Lecture 6
+Discussion and implementation of [Generative Adversarial Nets, Goodfellow et al. 2014](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
